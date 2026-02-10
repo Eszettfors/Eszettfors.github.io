@@ -5,7 +5,4 @@ Im employed as a pre-doctoral researcher at the TU Wien within the [DIGILINGDIV-
 
 At this site, you can find information about my projects.
 
-<iframe src=" https://f39e09-hannes-essfors.shinyapps.io/wikilingdiv_dashboard//" 
-        width="100%" height="800px" style="border:none;">
-</iframe>
-
+<a href="/dashboard.html">Open Dashboard</a>
