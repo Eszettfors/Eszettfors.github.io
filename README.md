@@ -5,4 +5,4 @@ Im employed as a pre-doctoral researcher at the TU Wien within the [DIGILINGDIV-
 
 At this site, you can find information about my projects.
 
-<a href="/wikilingdiv_dashboard.html">Open Dashboard</a>
+
