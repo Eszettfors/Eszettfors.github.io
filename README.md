@@ -32,4 +32,4 @@ Mail: Hannes.essfors@tuwien.ac.at
 
 
 ## Example Poster
-[Poster presented at the SigHum (LaTeCH-CLfL) workshop at the EACL 2026]
+[Poster presented at the SigHum (LaTeCH-CLfL) workshop at the EACL 2026](example_poster.png)
