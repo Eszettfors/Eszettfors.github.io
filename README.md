@@ -22,10 +22,10 @@ At this site, you can find information about my research and projects.
 [WikiLingDiv](https://github.com/Eszettfors/WikiLingDiv) --> [Explore the Data](https://f39e09-hannes-essfors.shinyapps.io/wikilingdiv_dashboard/)
 
 ## Datasets
-- [Essfors, H. (2026). FinLingDiv (1.0) [Data set]. Zenodo.](https://doi.org/10.5281/zenodo.18257720](https://zenodo.org/records/18257720)
-- [Essfors, H. (2026). WikiLingDiv [Data set]. Zenodo.](https://doi.org/10.5281/zenodo.18526766](https://zenodo.org/records/18526766)
-- [Essfors, H. (2026). EULingDiv (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.18836550](https://zenodo.org/records/18836550)
-- [Essfors, H. (2026). WikiLingSupp (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.18742003](https://zenodo.org/records/18742003)
+- Essfors, H. (2026). FinLingDiv (1.0) [Data set]. Zenodo. [link](https://doi.org/10.5281/zenodo.18257720](https://zenodo.org/records/18257720)
+- [Essfors, H. (2026). WikiLingDiv [Data set]. Zenodo. [link](https://doi.org/10.5281/zenodo.18526766](https://zenodo.org/records/18526766)
+- Essfors, H. (2026). EULingDiv (1.0) [Data set]. Zenodo. [link]https://doi.org/10.5281/zenodo.18836550](https://zenodo.org/records/18836550)
+- Essfors, H. (2026). WikiLingSupp (1.0) [Data set]. Zenodo. [link]https://doi.org/10.5281/zenodo.18742003](https://zenodo.org/records/18742003)
 
 ## Contact
 Mail: Hannes.essfors@tuwien.ac.at
