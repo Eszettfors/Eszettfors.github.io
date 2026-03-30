@@ -9,6 +9,7 @@ I hold a bachelor's degree in German Language from Lund University, and a Master
 At this site, you can find information about my research and projects.
 
 ## Publications
+- Hannes Essfors and Andreas Baumann. 2026. WikiLingDiv: a dataset for quantifying digital linguistic diversity using Wikipedia page views. In Proceedings of the 10th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature 2026, pages 202–211, Rabat, Morocco. Association for Computational Linguistics.
 - Essfors, H. (2025). Global Linguistic Diversity—Adapting the Leinster-Cobbold Framework from Ecology for Humanities Research. Anthology of Computers and the Humanities, 3, 653–669. https://doi.org/10.63744/srhQaCwGo5mj - presented at the Sixth Conference on Computational Humanities Research, 2025
 - Benson, J., Zeh, K., Essfors, H., Fellner, H., Neidhardt, J., Baumann, A. (2025). Linguistic Diversity and Digitalization: An Ambivalent Relationship. In: Hagedorn, L., Schmid, U., Winter, S., Woltran, S. (eds) Digital Humanism. DIGHUM 2025. Lecture Notes in Computer Science, vol 16319. Springer, Cham. https://doi.org/10.1007/978-3-032-11108-1_26c - presented at The Digital Humanism Interdisciplinary Science and Research Conference 2025
 
@@ -21,8 +22,10 @@ At this site, you can find information about my research and projects.
 [WikiLingDiv](https://github.com/Eszettfors/WikiLingDiv) --> [Explore the Data](https://f39e09-hannes-essfors.shinyapps.io/wikilingdiv_dashboard/)
 
 ## Datasets
-- Essfors, H. (2026). FinLingDiv (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.18257720
-- Essfors, H. (2026). WikiLingDiv [Data set]. Zenodo. https://doi.org/10.5281/zenodo.18526766
+- [Essfors, H. (2026). FinLingDiv (1.0) [Data set]. Zenodo.](https://doi.org/10.5281/zenodo.18257720](https://zenodo.org/records/18257720)
+- [Essfors, H. (2026). WikiLingDiv [Data set]. Zenodo.](https://doi.org/10.5281/zenodo.18526766](https://zenodo.org/records/18526766)
+- [Essfors, H. (2026). EULingDiv (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.18836550](https://zenodo.org/records/18836550)
+- [Essfors, H. (2026). WikiLingSupp (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.18742003](https://zenodo.org/records/18742003)
 
 ## Contact
 Mail: Hannes.essfors@tuwien.ac.at
