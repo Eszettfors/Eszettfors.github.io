@@ -36,6 +36,8 @@ https://aclanthology.org/2026.latechclfl-1.19/)
 ## Example Projects
 [WikiLingDiv](https://github.com/Eszettfors/WikiLingDiv) --> [Explore the Data](https://f39e09-hannes-essfors.shinyapps.io/wikilingdiv_dashboard/)
 
+[The Finnish Linguistic diversity Dashboard](https://f39e09-hannes-essfors.shinyapps.io/ling_fin/)
+
 ## Datasets
 - Essfors, H. (2026). FinLingDiv (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.18257720
 - Essfors, H. (2026). WikiLingDiv [Data set]. Zenodo. https://doi.org/10.5281/zenodo.18526766
