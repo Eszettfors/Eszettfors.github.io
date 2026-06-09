@@ -2,7 +2,7 @@ Hi there!
 
 I'm Hannes Essfors, pronounced ['han:es 'es:foʁs] in my native Scanian language, a linguistic variety most similar to Swedish, with its closest relative in Danish.
 
-I'm employed as a pre-doctoral researcher at the Data Science unit of TU Wien, working within the [DIGILINGDIV-project](https://digiling.univie.ac.at/digilingdiv/). My research focuses on modelling digital linguistic diversity to understand how technological and sociodemographic factors determine what language are used in digital contexts. I employ quantitative methods, and I especially enjoy using the programming language R for its strength in analysis and visualization, making complex data understandable and results interpretable. Linguistically, my interest mainly spans germanic non-standard varieties, such as the Austro-Bavarian languages ([bar](https://glottolog.org/resource/languoid/id/bava1246)). 
+I'm employed as a pre-doctoral researcher at the Data Science unit of TU Wien, working within the [DIGILINGDIV-project](https://digiling.univie.ac.at/digilingdiv/). My research focuses on modelling digital linguistic diversity to understand how technological and sociodemographic factors determine what languages are used in digital contexts. I employ quantitative methods, and I especially enjoy using the programming language R for its strength in analysis and visualization, making complex data understandable and results interpretable. Linguistically, my interest mainly spans germanic non-standard varieties, such as the Austro-Bavarian languages ([bar](https://glottolog.org/resource/languoid/id/bava1246)). 
 
 I hold a bachelor's degree in German Language from Lund University, and a Master's degree in Digital Humanities from the University of Vienna. I have also completed an internship at the Austrian Academy of Sciences (ÖAW) within the [LexAT21-project](https://www.oeaw.ac.at/acdh/research/linguistics/research/language-dynamics/lexat21-atlas-on-lexis-in-austria-in-the-21st-century).
 
@@ -31,7 +31,7 @@ https://aclanthology.org/2026.latechclfl-1.19/)
 - Essfors, H. Meschiari, M. Ceska, S. (2024): Linguistic Differences in H. C. Andersen and Grimm Fairy Tales: A Quantitative Corpus Analysis. Book of abstracts of the 48. Österreichische Linguistiktagung Rückblicke und Ausblicke auf die Angewandte Linguistik in Österreich. Innsbruck, Austria. [Presentation](https://emerginglinguists.org/wp-content/uploads/2025/01/OeLT_Hannes-Essfors_Stefan-Ceska_Manuel-Meschiari.pdf)
   
 ## Posters
-[Poster presented at the SigHum (LaTeCH-CLfL) workshop at the EACL 2026](example_poster.png)
+![Poster presented at the SigHum (LaTeCH-CLfL) workshop at the EACL 2026](example_poster.png)
 
 ## Example Projects
 [WikiLingDiv](https://github.com/Eszettfors/WikiLingDiv) --> [Explore the Data](https://f39e09-hannes-essfors.shinyapps.io/wikilingdiv_dashboard/)
