@@ -1,2 +1,9 @@
 theme: minima
 title: Hannes Essfors
+description: Pre-doctoral researcher at TU Wien focusing on digital linguistic diversity
+homepage: /
+nav:
+  - title: Home
+    url: /
+  - title: Projects
+    url: /projects.html
