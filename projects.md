@@ -3,23 +3,29 @@ layout: default
 title: Projects - Hannes Essfors
 ---
 
-# My Projects & Datasets
 
-Here you can find an overview of my research projects, interactive dashboards, and published datasets.
 
-## 🔬 Research Projects
 
-### [WikiLingDiv](https://github.com/Eszettfors/WikiLingDiv)
-A comprehensive project for quantifying digital linguistic diversity using Wikipedia page views. This project includes both the methodological framework and practical implementations.
+## My research Projects
 
-🔗 **[GitHub Repository](https://github.com/Eszettfors/WikiLingDiv)** | 📊 **[Explore the Data Dashboard](https://f39e09-hannes-essfors.shinyapps.io/wikilingdiv_dashboard/)**
+Here you can find an overview of projects I am involved with.
+
+### [DIGILINGDIV-project](https://digiling.univie.ac.at/digilingdiv/)
+The DIGILINGDIV project is a WWTF-funded project at the University of Vienna and TU, seeking to better our understanding of how digitalization fundamentally impacts cultural and linguistic diversity. On one hand, digital tools could enhance our ability to document endangered languages while supporting geographically and socially segregated communities; on the other hand, digitalization is dependent on infrastructure emerging from economically dominant cultural centers, risking further institutionalization of their dominance.
+
+My research in the project mainly concerns the development of resources and methods to understand this better. I create datasets that allow us to explicitly model when and where different languages are used, which, combined with statistical methods, allows us to understand how the distribution of diversity looks and how it is determined. Please find selected parts of the project below. 
+
+#### [WikiLingDiv](https://github.com/Eszettfors/WikiLingDiv)
+A comprehensive project for quantifying digital linguistic diversity using Wikipedia page views.
+
+**[GitHub Repository](https://github.com/Eszettfors/WikiLingDiv)** | **[Explore the Data](https://f39e09-hannes-essfors.shinyapps.io/wikilingdiv_dashboard/)** | **[Read the Paper](https://aclanthology.org/2026.latechclfl-1.19/)
 
 ### [The Finnish Linguistic Diversity Dashboard](https://f39e09-hannes-essfors.shinyapps.io/ling_fin/)
 An interactive dashboard showcasing linguistic diversity patterns in Finland, with visualizations and analytical tools for exploring the data.
 
-🔗 **[Access Dashboard](https://f39e09-hannes-essfors.shinyapps.io/ling_fin/)**
+**[Access Dashboard](https://f39e09-hannes-essfors.shinyapps.io/ling_fin/)**
 
-## 📊 Published Datasets
+## Published Datasets
 
 Here are my published datasets available on Zenodo:
 
@@ -38,19 +44,6 @@ Here are my published datasets available on Zenodo:
 - **TweetLingDiv** - Twitter-based Linguistic Diversity Dataset
   - DOI: [10.5281/zenodo.19332457](https://doi.org/10.5281/zenodo.19332457)
 
-## 🔧 Technical Skills & Tools
-
-- **Programming**: R (primary), Python, SQL
-- **Data Analysis**: Statistical modeling, data visualization, corpus linguistics
-- **Tools**: R Shiny for interactive dashboards, Git/GitHub for version control
-- **Methodologies**: Quantitative research methods, computational linguistics
-
-## 📚 Related Work
-
-My projects are part of the broader [DIGILINGDIV-project](https://digiling.univie.ac.at/digilingdiv/) at the University of Vienna, which focuses on digital linguistic diversity.
-
-I also contributed to the [LexAT21-project](https://www.oeaw.ac.at/acdh/research/linguistics/research/language-dynamics/lexat21-atlas-on-lexis-in-austria-in-the-21st-century) at the Austrian Academy of Sciences during my internship.
 
 ---
-
-🔙 **[Back to Home](index.html)**
+**[Back to start](index.html)**
