@@ -1,40 +1,28 @@
 ---
 layout: default
-title: Hannes Essfors
+title: Personal webpage of Hannes Essfors
 ---
-
-# Hannes Essfors
 
 Hi there! 
 
 I'm Hannes Essfors, pronounced ['han:es 'es:foʁs] in my native Scanian language, a linguistic variety most similar to Swedish, with its closest relative in Danish.
 
-I'm employed as a pre-doctoral researcher at the Data Science unit of TU Wien, working within the [DIGILINGDIV-project](https://digiling.univie.ac.at/digilingdiv/). My research focuses on modelling digital linguistic diversity to understand how technological and sociodemographic factors determine what languages are used in digital contexts. I employ quantitative methods, and I especially enjoy using the programming language R for its strength in analysis and visualization, making complex data understandable and results interpretable. Linguistically, my interest mainly spans germanic non-standard varieties, such as the Austro-Bavarian languages ([bar](https://glottolog.org/resource/languoid/id/bava1246)). 
+I'm employed as a pre-doctoral researcher at the Data Science unit of TU Wien, working within the [DIGILINGDIV-project](https://digiling.univie.ac.at/digilingdiv/). My research focuses on modelling digital linguistic diversity to ultimately better understand how technological, spatial, and sociodemographic factors shape language and culture in digital contexts. I develop and employ quantitative methods for linguistics, whereby I am a big fan of the statistical programming language R. Linguistically, my interest mainly spans Germanic non-standard varieties, such as the Austro-Bavarian languages ([bar](https://glottolog.org/resource/languoid/id/bava1246)). 
 
 I hold a bachelor's degree in German Language from Lund University, and a Master's degree in Digital Humanities from the University of Vienna. I have also completed an internship at the Austrian Academy of Sciences (ÖAW) within the [LexAT21-project](https://www.oeaw.ac.at/acdh/research/linguistics/research/language-dynamics/lexat21-atlas-on-lexis-in-austria-in-the-21st-century).
 
-## Education & Experience
-- **Pre-doctoral researcher** - Data Science unit, TU Wien (Current)
-- **Master's degree** - Digital Humanities, University of Vienna
-- **Bachelor's degree** - German Language, Lund University
-- **Internship** - Austrian Academy of Sciences, LexAT21-project
-
-## Research Focus
-- Digital linguistic diversity
-- Quantitative methods in linguistics
-- R programming for data analysis and visualization
-- Germanic non-standard varieties (especially Austro-Bavarian)
+Feel free to look around the website and reach out if you have any questions about anything!
 
 ## Contact
-📧 Mail: [Hannes.essfors@tuwien.ac.at](mailto:Hannes.essfors@tuwien.ac.at)
+Mail: [hannes.essfors@tuwien.ac.at](mailto:hannes.essfors@tuwien.ac.at) or [hannes.essfors@gmail.com](mailto:hannes.essfors@gmail.com)
 
 ---
 
-## Recent Updates
+## Shortcuts
 
-- **[Projects Page](projects.html)** - Explore my research projects and datasets
-- **[Publications](#publications)** - View my peer-reviewed work
-- **[Talks](#talks)** - Check out my presentations
+- **[Projects Page](projects.html)**
+- **[Publications](#publications)**
+- **[Talks](#talks)**
 
 ---
 
