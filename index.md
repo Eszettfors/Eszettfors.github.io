@@ -1,28 +1,26 @@
 ---
 layout: default
-title: Personal webpage of Hannes Essfors
+title: Main page
 ---
 
 Hi there! 
 
 I'm Hannes Essfors, pronounced ['han:es 'es:foʁs] in my native Scanian language, a linguistic variety most similar to Swedish, with its closest relative in Danish.
 
-I'm employed as a pre-doctoral researcher at the Data Science unit of TU Wien, working within the [DIGILINGDIV-project](https://digiling.univie.ac.at/digilingdiv/). My research focuses on modelling digital linguistic diversity to ultimately better understand how technological, spatial, and sociodemographic factors shape language and culture in digital contexts. I develop and employ quantitative methods for linguistics, whereby I am a big fan of the statistical programming language R. Linguistically, my interest mainly spans Germanic non-standard varieties, such as the Austro-Bavarian languages ([bar](https://glottolog.org/resource/languoid/id/bava1246)). 
+I'm employed as a pre-doctoral researcher at the Data Science unit of TU Wien, working within the [DIGILINGDIV-project](https://digiling.univie.ac.at/digilingdiv/). My research interests concern Quantitative Linguistics, Compuational Social Science, Cultural analytics and Geolinguistics. My work in the DIGILINGDIV-project focuses on modelling digital linguistic diversity to ultimately better understand how technological, spatial, and sociodemographic factors shape language and culture in digital contexts. I develop and employ quantitative methods for linguistics, whereby I am a big fan of the statistical programming language R. Linguistically, my interest mainly spans Germanic non-standard varieties, such as the Austro-Bavarian languages ([bar](https://glottolog.org/resource/languoid/id/bava1246)). 
 
 I hold a bachelor's degree in German Language from Lund University, and a Master's degree in Digital Humanities from the University of Vienna. I have also completed an internship at the Austrian Academy of Sciences (ÖAW) within the [LexAT21-project](https://www.oeaw.ac.at/acdh/research/linguistics/research/language-dynamics/lexat21-atlas-on-lexis-in-austria-in-the-21st-century).
 
 Feel free to look around the website and reach out if you have any questions about anything!
 
 ## Contact
-Mail: [hannes.essfors@tuwien.ac.at](mailto:hannes.essfors@tuwien.ac.at) or [hannes.essfors@gmail.com](mailto:hannes.essfors@gmail.com)
+Mail:  [hannes.essfors@gmail.com](mailto:hannes.essfors@gmail.com) or [hannes.essfors@tuwien.ac.at](mailto:hannes.essfors@tuwien.ac.at) or [hannes.essfors@univie.ac.at](mailto:hannes.essfors@univie.ac.at)
 
 ---
 
 ## Shortcuts
 
 - **[Projects Page](projects.html)**
-- **[Publications](#publications)**
-- **[Talks](#talks)**
 
 ---
 
