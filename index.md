@@ -42,6 +42,10 @@ Mail:  [hannes.essfors@gmail.com](mailto:hannes.essfors@gmail.com) or [hannes.es
 
 - Baumann, A.; Essfors, H., (2026). Intra-linguistic and inter-linguistic diversity: mechanisms, models, and data. Invited talk, University of Eastern Finland, Online.
 
+- Essfors, H. (2025). Global Linguistic Diversity—Adapting the Leinster-Cobbold Framework from Ecology for Humanities Research. Presented at the Sixth Conference on Computational Humanities Research, 2025. [Presentation](https://docs.google.com/presentation/d/1_4y94N006g5hkKkqnkpqLj-5lRctHfao/edit?usp=sharing&ouid=111240199827983036274&rtpof=true&sd=true)
+
+-Essfors H. (2025). Disentangling effects of digitization on linguistic diversity (DIGILINGDIV): An introduction to the project and my research. Presented as part of the presentation series at the Data Science research unit at TU WIen, 2025. [Presentation](https://docs.google.com/presentation/d/1ruFFBs80oFj0fJrB7hDELjFhiskq3Cab/edit?usp=sharing&ouid=111240199827983036274&rtpof=true&sd=true)
+
 - Essfors, H. (2025): En eller Ett Getting the Swedish grammatical gender right - A probability based approach. Book of abstracts of the 2. spraWIEN – transdisziplinäre Tagung mit sprachbezug. Wien, Austria. [Presentation](https://sprawien.at/wp-content/uploads/2025/06/Essfors_En_eller_ett.pdf)
   
 - Essfors, H. Meschiari, M. Ceska, S. (2024): Linguistic Differences in H. C. Andersen and Grimm Fairy Tales: A Quantitative Corpus Analysis. Book of abstracts of the 48. Österreichische Linguistiktagung Rückblicke und Ausblicke auf die Angewandte Linguistik in Österreich. Innsbruck, Austria. [Presentation](https://emerginglinguists.org/wp-content/uploads/2025/01/OeLT_Hannes-Essfors_Stefan-Ceska_Manuel-Meschiari.pdf)
