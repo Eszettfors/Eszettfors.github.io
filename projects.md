@@ -21,6 +21,6 @@ A comprehensive project for quantifying digital linguistic diversity using Wikip
 ### [FinLingDiv](https://f39e09-hannes-essfors.shinyapps.io/FinLingDiv/))
 A demolinguistic dataset to explore temporal and spatial dynamics of linguistic diversity in Finland. An interactive dashboard showcasing linguistic diversity patterns with visualizations and analytical tools for exploring the data.
 
-**[GitHub Repository](https://github.com/Eszettfors/FinLingDiv)** |**[Access Dashboard](https://f39e09-hannes-essfors.shinyapps.io/ling_fin/)**
+**[GitHub Repository](https://github.com/Eszettfors/FinLingDiv)** |**[Access Dashboard](https://f39e09-hannes-essfors.shinyapps.io/FinLingDiv/)**
 
 **[Back to start](index.html)**
