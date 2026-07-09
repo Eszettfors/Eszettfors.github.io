@@ -3,7 +3,7 @@ layout: default
 title: Main page
 ---
 
-Hi there! 
+Griaß di! Tjena! Hi! 
 
 I'm Hannes Essfors, pronounced ['han:es 'es:foʁs] in my native Scanian language, a linguistic variety most similar to Swedish, with its closest relative in Danish.
 
