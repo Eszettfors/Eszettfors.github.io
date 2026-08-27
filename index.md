@@ -3,18 +3,25 @@ layout: default
 title: Main page
 ---
 
+<img src="assets/images/profile.jpg" alt="Profile Picture" style="width: 200px; border-radius: 50%; float: right; margin-left: 20px;">
+
+
 Griaß di! Tjena! Hi! 
 
-I'm Hannes Essfors, pronounced ['han:es 'es:foʁs] in my native Scanian language, a linguistic variety most similar to Swedish, with its closest relative in Danish.
+Welcome to my personal webpage, where you can find a little bit of everything surrounding me, my life and everything I do. My name is Hannes Essfors, pronounced ['han:es 'es:foʁs] in my native Scanian language, a linguistic variety most similar to Swedish, with its closest relative in Danish. I grew up in the small town of Svedala in the South of Sweden. Do not worry if you never heard of it, most people haven't. It is close to Malmö, which might be more familiar. In 2023, love took me to Vienna, and here I am!
 
-I'm employed as a pre-doctoral researcher at the Data Science unit of TU Wien, working within the [DIGILINGDIV-project](https://digiling.univie.ac.at/digilingdiv/). My research interests concern Quantitative Linguistics, Compuational Social Science, Cultural analytics and Geolinguistics. My work in the DIGILINGDIV-project focuses on modelling digital linguistic diversity to ultimately better understand how technological, spatial, and sociodemographic factors shape language and culture in digital contexts. I develop and employ quantitative methods for linguistics, whereby I am a big fan of the statistical programming language R. Linguistically, my interest mainly spans Germanic non-standard varieties, such as the Austro-Bavarian languages ([bar](https://glottolog.org/resource/languoid/id/bava1246)). 
+![This is me](assets/images/github_foto.jpg)
+
+Since the fall of 2025, I'm employed as a pre-doctoral researcher at the Data Science unit of TU Wien, working within the [DIGILINGDIV-project](https://digiling.univie.ac.at/digilingdiv/). My research interests concern Quantitative Linguistics, Compuational Social Science, Cultural analytics and Geolinguistics. My work in the DIGILINGDIV-project focuses on modelling digital linguistic diversity to ultimately better understand how technological, spatial, and sociodemographic factors shape language and culture in digital contexts. I develop and employ quantitative methods for linguistics, whereby I am a big fan of the statistical programming language R. Linguistically, my interest mainly spans Germanic non-standard varieties, such as the Austro-Bavarian languages ([bar](https://glottolog.org/resource/languoid/id/bava1246)). 
 
 I hold a bachelor's degree in German Language from Lund University, and a Master's degree in Digital Humanities from the University of Vienna. I have also completed an internship at the Austrian Academy of Sciences (ÖAW) within the [LexAT21-project](https://www.oeaw.ac.at/acdh/research/linguistics/research/language-dynamics/lexat21-atlas-on-lexis-in-austria-in-the-21st-century).
 
-Feel free to look around the website and reach out if you have any questions about anything!
+In my spare time - apart from being nerdy about language, people, and numbers - I enjoy being out in nature (hiking, camping, biking), play chess, board games and a variety of strategy games. 
+
+Feel free to look around the website and reach out if you have any questions about anything, professional or private!
 
 ## Contact
-Mail:  [hannes.essfors@gmail.com](mailto:hannes.essfors@gmail.com) or [hannes.essfors@tuwien.ac.at](mailto:hannes.essfors@tuwien.ac.at) or [hannes.essfors@univie.ac.at](mailto:hannes.essfors@univie.ac.at)
+Mail: [hannes.essfors@gmail.com](mailto:hannes.essfors@gmail.com) or [hannes.essfors@tuwien.ac.at](mailto:hannes.essfors@tuwien.ac.at) or [hannes.essfors@univie.ac.at](mailto:hannes.essfors@univie.ac.at)
 
 ---
 
@@ -44,11 +51,15 @@ Mail:  [hannes.essfors@gmail.com](mailto:hannes.essfors@gmail.com) or [hannes.es
 
 - Essfors, H. (2025). Global Linguistic Diversity—Adapting the Leinster-Cobbold Framework from Ecology for Humanities Research. Presented at the Sixth Conference on Computational Humanities Research, 2025. [Presentation](https://docs.google.com/presentation/d/1_4y94N006g5hkKkqnkpqLj-5lRctHfao/edit?usp=sharing&ouid=111240199827983036274&rtpof=true&sd=true)
 
--Essfors H. (2025). Disentangling effects of digitization on linguistic diversity (DIGILINGDIV): An introduction to the project and my research. Presented as part of the presentation series at the Data Science research unit at TU WIen, 2025. [Presentation](https://docs.google.com/presentation/d/1ruFFBs80oFj0fJrB7hDELjFhiskq3Cab/edit?usp=sharing&ouid=111240199827983036274&rtpof=true&sd=true)
+- Essfors H. (2025). Disentangling effects of digitization on linguistic diversity (DIGILINGDIV): An introduction to the project and my research. Presented as part of the presentation series at the Data Science research unit at TU WIen, 2025. [Presentation](https://docs.google.com/presentation/d/1ruFFBs80oFj0fJrB7hDELjFhiskq3Cab/edit?usp=sharing&ouid=111240199827983036274&rtpof=true&sd=true)
 
 - Essfors, H. (2025): En eller Ett Getting the Swedish grammatical gender right - A probability based approach. Book of abstracts of the 2. spraWIEN – transdisziplinäre Tagung mit sprachbezug. Wien, Austria. [Presentation](https://sprawien.at/wp-content/uploads/2025/06/Essfors_En_eller_ett.pdf)
   
 - Essfors, H. Meschiari, M. Ceska, S. (2024): Linguistic Differences in H. C. Andersen and Grimm Fairy Tales: A Quantitative Corpus Analysis. Book of abstracts of the 48. Österreichische Linguistiktagung Rückblicke und Ausblicke auf die Angewandte Linguistik in Österreich. Innsbruck, Austria. [Presentation](https://emerginglinguists.org/wp-content/uploads/2025/01/OeLT_Hannes-Essfors_Stefan-Ceska_Manuel-Meschiari.pdf)
 
+## Datasets
+
+Find all datasets I have published and maintain on [Zenodo](https://zenodo.org/me/uploads?q=&f=shared_with_me%3Afalse&l=list&p=1&s=10&sort=newest)!
+
 ## Posters
-![Poster presented at the SigHum (LaTeCH-CLfL) workshop at the EACL 2026](example_poster.png)
+![Poster presented at the SigHum (LaTeCH-CLfL) workshop at the EACL 2026](assets/images/SIGHUM%20(LaTeCH-CLfL)%20March%2028-29,%202026.png)

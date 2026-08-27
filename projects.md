@@ -3,13 +3,12 @@ layout: default
 title: Projects - Hannes Essfors
 ---
 
-
 ## My research Projects
 
-Here you can find an overview of project I have developed and been involved with
+Here you can find an overview of projects I have been involved with
 
 ### [DIGILINGDIV-project](https://digiling.univie.ac.at/digilingdiv/)
-The DIGILINGDIV project is a WWTF-funded project at the University of Vienna and TU, seeking to better our understanding of how digitalization fundamentally impacts cultural and linguistic diversity. On one hand, digital tools could enhance our ability to document endangered languages while supporting geographically and socially segregated communities; on the other hand, digitalization is dependent on infrastructure emerging from economically dominant cultural centers, risking further institutionalization of their dominance.
+The DIGILINGDIV project is a WWTF-funded project at the University of Vienna and TU, seeking to further our understanding of how digitalization fundamentally impacts cultural and linguistic diversity. On one hand, digital tools could enhance our ability to document endangered languages while supporting geographically and socially segregated communities; on the other hand, digitalization is dependent on infrastructure emerging from economically dominant cultural centers, risking further institutionalization of their dominance.
 
 My research in the project mainly concerns the development of resources and methods to understand this better. I create datasets that allow us to explicitly model when and where different languages are used, which, combined with statistical methods, allows us to understand how the distribution of diversity looks and how it is determined. 
 
