@@ -3,14 +3,12 @@ layout: default
 title: Main page
 ---
 
-<img src="assets/images/profile.jpg" alt="Profile Picture" style="width: 200px; border-radius: 50%; float: right; margin-left: 20px;">
+<img src="assets/images/profile.jpg" alt="Profile Picture" style="width: 20px; border-radius: 50%; float: right; margin-left: 20px;">
 
 
 Griaß di! Tjena! Hi! 
 
 Welcome to my personal webpage, where you can find a little bit of everything surrounding me, my life and everything I do. My name is Hannes Essfors, pronounced ['han:es 'es:foʁs] in my native Scanian language, a linguistic variety most similar to Swedish, with its closest relative in Danish. I grew up in the small town of Svedala in the South of Sweden. Do not worry if you never heard of it, most people haven't. It is close to Malmö, which might be more familiar. In 2023, love took me to Vienna, and here I am!
-
-![This is me](assets/images/github_foto.jpg)
 
 Since the fall of 2025, I'm employed as a pre-doctoral researcher at the Data Science unit of TU Wien, working within the [DIGILINGDIV-project](https://digiling.univie.ac.at/digilingdiv/). My research interests concern Quantitative Linguistics, Compuational Social Science, Cultural analytics and Geolinguistics. My work in the DIGILINGDIV-project focuses on modelling digital linguistic diversity to ultimately better understand how technological, spatial, and sociodemographic factors shape language and culture in digital contexts. I develop and employ quantitative methods for linguistics, whereby I am a big fan of the statistical programming language R. Linguistically, my interest mainly spans Germanic non-standard varieties, such as the Austro-Bavarian languages ([bar](https://glottolog.org/resource/languoid/id/bava1246)). 
 
