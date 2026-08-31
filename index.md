@@ -3,7 +3,7 @@ layout: default
 title: Main page
 ---
 
-<img src="assets/images/profile.jpg" alt="Profile Picture" style="width: 20px; border-radius: 50%; float: right; margin-left: 20px;">
+<img src="assets/images/github_foto.jpg" alt="Profile Picture" style="width: 120px; border-radius: 50%; float: right; margin-left: 20px;">
 
 
 Griaß di! Tjena! Hi! 
